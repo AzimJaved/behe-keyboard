@@ -21,6 +21,10 @@ Also, BeHe Keyboard does not spy on you and is easy to use. Check it out!
 <a href="https://play.google.com/store/apps/details?id=com.vlath.keyboard" target="_blank">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
 
+## This fork
+
+This fork sends a new line character everytime you press a key. Useful to annoy annoying people on WhatsApp and get them to block you
+<hr>
 ## License
  
  Copyright 2017 Vlad Todosin
